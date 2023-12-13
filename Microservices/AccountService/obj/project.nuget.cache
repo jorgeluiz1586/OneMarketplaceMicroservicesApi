@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "DBLQ1eIBEwLjp0zsLKnnMe/Qr1WxWwj2WVEs/3LVlFQU8gXrJv+apjtbT50rcbElqfvStu58cs3v7u0Z/Rgxhw==",
+  "success": true,
+  "projectFilePath": "/home/jorgeluiz/Documentos/Trabalho/Pessoal/MyPortfolio/OneMarketplace/OneMarketplaceApi/Microservices/AccountService/AccountService.csproj",
+  "expectedPackageFiles": [
+    "/home/jorgeluiz/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "/home/jorgeluiz/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/jorgeluiz/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/jorgeluiz/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/home/jorgeluiz/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/home/jorgeluiz/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/home/jorgeluiz/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
